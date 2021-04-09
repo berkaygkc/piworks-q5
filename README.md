@@ -60,4 +60,4 @@ Berkay Gökçe - [e-Mail](mailto:berkaygkc7@gmail.com)
 
 Project Link: [https://github.com/berkaygkc/piworks-q5](https://github.com/berkaygkc/piworks-q5)
 
-[ui]: https://github.com/berkaygkc/piworks-q5/images/ui.png
+[ui]: https://github.com/berkaygkc/piworks-q5/blob/main/images/ui.png
